@@ -12,7 +12,7 @@ header-content: >
 
 <div class="page-padding text-textBlack content-spacing bg-white">
   <div class="mx-auto max-w-screen-lg py-20 text-center">
-    <h2 class="h4">Lorem ipsum dolor sit amet consectetur adipisicing elit itaque dolor</h2>
+    <h2 class="h4">Hello! I'm UK version.</h2>
     <p class="text-lg">{{site.description}}</p>
     {% include countdown.html message="Sale ends in:" class="text-lg" %}
   </div>
