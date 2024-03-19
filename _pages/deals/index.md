@@ -1,7 +1,7 @@
 ---
 layout: group
 id: deals
-title: Sale collections
+title: Sale Kollektionen
 group: true
 nav: true
 nav-order: 2

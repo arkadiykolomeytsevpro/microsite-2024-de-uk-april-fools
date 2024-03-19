@@ -1,7 +1,7 @@
 ---
 layout: competition
 id: competition
-title: Competition
+title: Wettbewerb
 permalink: /competition/
 nav: true
 nav-order: 5
