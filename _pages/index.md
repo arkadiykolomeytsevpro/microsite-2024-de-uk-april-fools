@@ -12,7 +12,7 @@ header-content: >
 
 <div class="page-padding text-textBlack content-spacing bg-white">
   <div class="mx-auto max-w-screen-lg py-20 text-center">
-    <h2 class="h5">Our fantastic January SALE is now on! Find huge discounts and amazing offers on dreamy destinations</h2>
+    <h2 class="h5">Hello! I'm UK version.</h2>
     <p class="text-lg">{{site.description}}</p>
     <p class="text-lg font-bold">Browse our inspiring collections or scroll down for more offers to find a bargain escape you can't refuse!</p>
     <!-- {% include countdown.html message="Sale ends in:" class="text-lg" %} -->
