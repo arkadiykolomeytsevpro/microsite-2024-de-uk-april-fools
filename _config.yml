@@ -4,14 +4,14 @@ description: >
   !Lorem ipsum dolor sit amet, consectetur adianim id est laborum.pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit!
 
 # value for cross site countdown timer
-expires: 2024/03/25 12:00:00
+expires: 2024/03/30 12:00:00
 
 # file paths
 url: "https://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/_marketing/promo-template/uk" # the subpath of your site, e.g. /blog/
-img: "/_marketing/promo-template/uk/_assets/img"
-css: "/_marketing/promo-template/uk/_assets/css"
-js: "/_marketing/promo-template/uk/_assets/js"
+baseurl: "/uk/2024/april-fools-sale" # the subpath of your site, e.g. /blog/
+img: "/uk/2024/april-fools-sale/_assets/img"
+css: "/uk/2024/april-fools-sale/_assets/css"
+js: "/uk/2024/april-fools-sale/_assets/js"
 
 exclude:
   [
