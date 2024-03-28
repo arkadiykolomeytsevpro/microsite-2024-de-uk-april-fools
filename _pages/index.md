@@ -5,8 +5,8 @@ title: All Sale Deals
 nav: true
 nav-order: 1
 header-content: >
-  <h1 class="h--banner">
-    {{site.title}}
+  <h1>
+    <img class="mx-auto w-full max-w-screen-lg" src="{{site.img}}/content/{{page.id}}/title-uk.png" alt="UK globe">
   </h1>
 ---
 
